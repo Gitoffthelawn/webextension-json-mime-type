@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "@biomejs/biome": "2.4.10",
-        "sinon": "21.0.3",
+        "sinon": "21.1.2",
         "sinon-chrome": "3.0.1",
         "web-ext": "10.1.0"
     },
