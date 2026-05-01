@@ -8,7 +8,7 @@
         "node": ">=24"
     },
     "devDependencies": {
-        "@biomejs/biome": "2.4.10",
+        "@biomejs/biome": "2.4.13",
         "sinon": "21.1.2",
         "sinon-chrome": "3.0.1",
         "web-ext": "10.1.0"
